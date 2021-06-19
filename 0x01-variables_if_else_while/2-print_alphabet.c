@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int letter = 12i;
+	int letter = 122;
 
 	while (letter >= 97)
 	{
