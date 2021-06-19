@@ -20,7 +20,7 @@ int main(void)
 	while (letter <= 90)
 	{
 		putchar(letter);
-		letter++
+		letter++;
 	}
 	putchar('\n');
 	return (0);
