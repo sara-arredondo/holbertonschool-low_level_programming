@@ -7,9 +7,9 @@
  */
 int main(void)
 {
-	int letter = 122;
+	int letter = 97;
 
-	while (letter >= 97)
+	while (letter <= 122)
 	{
 		putchar(letter);
 		letter++;
