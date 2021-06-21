@@ -5,7 +5,25 @@
  *
  * Return: Always 0 (Sucess)
  */
-int main(void)
-{
+nt main() {
 
+int i;
+
+  for (i = 48 ; i <= 57 ; i++)
+  
+  {  
+    putchar(i);
+    
+    if(i <= 56)
+    {
+      putchar(',');
+      putchar(' ');
+      
+      }
+    
+    
+    
+  }
+  
+  return 0;
 }
