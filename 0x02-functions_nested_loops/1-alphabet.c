@@ -1,20 +1,17 @@
-#include <stdio.h>
 #include "holberton.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (sucess)
+ * print_alphabet - print alphabet in lowercase
+ * Return: void
  */
-int main(void)
+void print_alphabet(void)
 {
 	int letter = 97;
 
 	while (letter <= 122)
 	{
-		putchar(letter);
+		_putchar(letter);
 		letter++;
 	}
 	putchar('\n');
-	return (0);
 }
