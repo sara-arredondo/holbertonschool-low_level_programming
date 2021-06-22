@@ -12,9 +12,9 @@ int main(void)
 
 	while (letter <= 122)
 	{
-		_putchar(letter);
+		putchar(letter);
 		letter++;
 	}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
