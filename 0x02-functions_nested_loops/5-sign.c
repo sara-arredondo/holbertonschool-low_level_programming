@@ -3,7 +3,7 @@
 /**
  * print_sign - prints the sign of a number
  * @n: Represent the value of the number
- * Return: int c
+ * Return: int n
  */
 int print_sign(int n)
 {
