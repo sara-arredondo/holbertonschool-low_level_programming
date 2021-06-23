@@ -15,6 +15,6 @@ while (l <= 122)
 _putchar(l);
 l++;
 }
-}
 _putchar('\n');
+}
 }
